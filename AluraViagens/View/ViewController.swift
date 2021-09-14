@@ -55,6 +55,8 @@ extension ViewController: UITableViewDataSource {
                 fatalError("error to create OfertaTableViewCell")
             }
             
+            celulaOferta.configuraCelula(viewModel?.viagens)
+            
             return celulaOferta
             
         default:
