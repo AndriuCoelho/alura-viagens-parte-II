@@ -9,10 +9,7 @@ A Alura Viagens é a simulação de um aplicativo de viagens para o sistema oper
 - Listar os destinos de viagens consumindo um arquivo JSON.
 - Mostrar uma página de detalhes da viagem selecionada.
 
-<img src="https://user-images.githubusercontent.com/47362960/149800699-f007f56d-b307-4e3c-a9bd-813903459a76.gif" alt="Gif mostrando o aplicativo em execução" width="250" height="550">
-
 ![Alura Viagens](https://user-images.githubusercontent.com/47362960/149800699-f007f56d-b307-4e3c-a9bd-813903459a76.gif)
-
 
 ## ✔️ Técnicas e tecnologias
 
