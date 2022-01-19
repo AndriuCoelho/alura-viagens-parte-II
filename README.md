@@ -19,6 +19,7 @@ A Alura Viagens é a simulação de um aplicativo de viagens para o sistema oper
 - `Interface Builder`: Posicionando elementos na tela através do *drag in drop*.
 - `TableViewController`: Criação de tabelas dinâmicas.
 - `NavigationController`: Navegação entre telas com passagem de parâmetros.
+- `Auto Layout`: A forma como construímos layout com UIKit, através de constraints.
 - `UIStackView`: Uma ótima ferramenta para agrupar e alinhar elementos na tela.
 - `Constraints`: Regras de posicionamento dos elementos.
 - `Xib`: Criação uma única View customizada.
