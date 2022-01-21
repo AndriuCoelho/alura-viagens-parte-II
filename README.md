@@ -2,11 +2,11 @@
 
 # Alura Viagens
 
-A Alura Viagens é a simulação de um aplicativo de viagens para o sistema operacional iOS que utiliza a linguagem Swift e o framework UIKit, utilizado para a construção de aplicativos iOS.
+A Alura Viagens é a simulação de um aplicativo de viagens para o sistema operacional iOS e utiliza a linguagem Swift e o framework UIKit, voltado para a construção de aplicativos iOS.
 
 ## 🔨 Funcionalidades do projeto
 
-- Listar os destinos de viagens consumindo um arquivo JSON.
+- Listar os destinos de viagens, consumindo um arquivo JSON.
 - Mostrar uma página de detalhes da viagem selecionada.
 
 ![Alura Viagens](https://user-images.githubusercontent.com/47362960/149800699-f007f56d-b307-4e3c-a9bd-813903459a76.gif)
@@ -16,7 +16,7 @@ A Alura Viagens é a simulação de um aplicativo de viagens para o sistema oper
 **Veja abaixo o que utilizamos nesse projeto**:
 - `UIKit`: Um framework que permite a construção de aplicações iOS.
 - `XCode`: O ambiente de desenvolvimento necessário para a construção de aplicativos.
-- `Interface Builder`: Posicionando elementos na tela através do *drag in drop*.
+- `Interface Builder`: Posicionamento de elementos na tela por meio do *drag in drop*.
 - `TableViewController`: Criação de tabelas dinâmicas.
 - `NavigationController`: Navegação entre telas com passagem de parâmetros.
 - `Auto Layout`: A forma como construímos layout com UIKit, através de constraints.
