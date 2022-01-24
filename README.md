@@ -31,7 +31,7 @@ E muito mais!
  
 ## 📁 Acesso ao projeto
 
-Você pode [baixar o zip](https://github.com/giovannamoeller/alura-viagens-parte-II/archive/refs/heads/master.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/alura-viagens-parte-II/tree/master).
+Você pode [baixar o zip](https://github.com/alura-cursos/alura-viagens-parte-II/archive/refs/heads/master.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/alura-viagens-parte-II/tree/master).
 
 ## 🛠️ Abrir e rodar o projeto
 
